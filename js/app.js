@@ -1,8 +1,3 @@
-/* ============================================
-   ExamVault — Main Application Controller
-   Handles routing, rendering all views,
-   exam taking engine, and UI interactions.
-   ============================================ */
 
 const App = {
     currentView: 'login',
